@@ -1,0 +1,7 @@
+Package: cyber-monitor-daemon
+Version: 1.0
+Architecture: amd64
+Maintainer: Alexis Noiret <alexis.noiret@laplateforme.io>
+Description: Démon de supervision pédagogique
+ Programme C minimal lancé comme service systemd,
+ empaqueté dans un .deb (projet La Plateforme).
